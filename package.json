@@ -1,0 +1,13 @@
+{
+  "name": "line-bot-notify",
+  "version": "1.0.0",
+  "description": "LINE bot that notifies a group when a member leaves",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@line/bot-sdk": "^9.4.2"
+  }
+}
